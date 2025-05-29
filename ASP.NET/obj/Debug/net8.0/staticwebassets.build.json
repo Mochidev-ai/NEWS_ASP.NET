@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "avdoELtrUoaSZbU2PfKt1yHzgK2Y5FRzbIPsVQwBHJk=",
+  "Source": "VtvNewsApp",
+  "BasePath": "_content/VtvNewsApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VtvNewsApp\\wwwroot",
+      "Source": "VtvNewsApp",
+      "ContentRoot": "C:\\Users\\TUF\\OneDrive - hoadao05\\Máy tính\\ASP.NET - Copy - Copy\\wwwroot\\",
+      "BasePath": "_content/VtvNewsApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\TUF\\OneDrive - hoadao05\\Máy tính\\ASP.NET - Copy - Copy\\wwwroot\\css\\images\\Logo.png",
+      "SourceId": "VtvNewsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TUF\\OneDrive - hoadao05\\Máy tính\\ASP.NET - Copy - Copy\\wwwroot\\",
+      "BasePath": "_content/VtvNewsApp",
+      "RelativePath": "css/images/Logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bce9hja76c",
+      "Integrity": "2+1EmKsA7MEl3Is6x0vuq9/bVN9NBRd423sr0VVpGf8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\images\\Logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\TUF\\OneDrive - hoadao05\\Máy tính\\ASP.NET - Copy - Copy\\wwwroot\\css\\site.css",
+      "SourceId": "VtvNewsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TUF\\OneDrive - hoadao05\\Máy tính\\ASP.NET - Copy - Copy\\wwwroot\\",
+      "BasePath": "_content/VtvNewsApp",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ihgkg4br25",
+      "Integrity": "il+QUw2oJx3nBMmOI3SSjpOeHzdZi1nytfUeE+zsFCc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/images/Logo.bce9hja76c.png",
+      "AssetFile": "C:\\Users\\TUF\\OneDrive - hoadao05\\Máy tính\\ASP.NET - Copy - Copy\\wwwroot\\css\\images\\Logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "264692"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2+1EmKsA7MEl3Is6x0vuq9/bVN9NBRd423sr0VVpGf8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 05:33:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bce9hja76c"
+        },
+        {
+          "Name": "label",
+          "Value": "css/images/Logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2+1EmKsA7MEl3Is6x0vuq9/bVN9NBRd423sr0VVpGf8="
+        }
+      ]
+    },
+    {
+      "Route": "css/images/Logo.png",
+      "AssetFile": "C:\\Users\\TUF\\OneDrive - hoadao05\\Máy tính\\ASP.NET - Copy - Copy\\wwwroot\\css\\images\\Logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "264692"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2+1EmKsA7MEl3Is6x0vuq9/bVN9NBRd423sr0VVpGf8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 05:33:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2+1EmKsA7MEl3Is6x0vuq9/bVN9NBRd423sr0VVpGf8="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\TUF\\OneDrive - hoadao05\\Máy tính\\ASP.NET - Copy - Copy\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"il+QUw2oJx3nBMmOI3SSjpOeHzdZi1nytfUeE+zsFCc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 15:20:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-il+QUw2oJx3nBMmOI3SSjpOeHzdZi1nytfUeE+zsFCc="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ihgkg4br25.css",
+      "AssetFile": "C:\\Users\\TUF\\OneDrive - hoadao05\\Máy tính\\ASP.NET - Copy - Copy\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"il+QUw2oJx3nBMmOI3SSjpOeHzdZi1nytfUeE+zsFCc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 15:20:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ihgkg4br25"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-il+QUw2oJx3nBMmOI3SSjpOeHzdZi1nytfUeE+zsFCc="
+        }
+      ]
+    }
+  ]
+}
